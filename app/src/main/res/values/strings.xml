@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="my_laptop_name">Macbook Pro</string>
+
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect!</string>
+
+    <string name="first_score_text">0/10</string>
+
+    <string name="correct_toast_message">Great!</string>
+    <string name="incorrect_toast_message">Not good!</string>
+
+    <string name="q1">Camels have three eyelids.</string>
+    <string name="q2">A honey bee can fly at 15mph.</string>
+    <string name="q3">A snail breathes throw its foot.</string>
+    <string name="q4">Fish cough.</string>
+    <string name="q5">Frogs can\'t shallow with their eyes open.</string>
+    <string name="q6">A cat\'s lower jaw cannot move sideways.</string>
+    <string name="q7">Elephants are the only mammals that can\'t jump.</string>
+    <string name="q8">Cats can hear ultrasound.</string>
+    <string name="q9">You blink over the 10,000,000 times a year.</string>
+    <string name="q10">Pigs can get sunburn.</string>
+</resources>
